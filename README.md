@@ -19,6 +19,7 @@ Sou graduanda em **Análise e Desenvolvimento de Sistemas** pela FMU/SP, e parti
 → CSS Avançado <br>
 → Node.js <br>
 → SCRUM & Kanban (Metodologias Ágeis) <br>
+→ Versionamento de código com GIT 
  
  ### 🐱 GitHub Status: 
   
