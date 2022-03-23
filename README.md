@@ -1,24 +1,25 @@
-### Hi, I'm Sabrina Guimarães 👋 
+### Hi👋 
 
-**Sou estudante de Análise e Desenvolvimento de sistemas, apaixonada por tecnologia e acredito que ela possa mudar a vida das pessoas!**
+<center><center>
+  
+  
+  ![Component 1 certp](https://user-images.githubusercontent.com/101408372/159701602-5a401618-fa25-4784-b6d3-3e60885a97cf.png)
+
+
+Me chamo Sabrina, e **agradeço imensamente a visita ao meu perfil**, estou aberta para trocas e conversas! <br>
+Sou graduanda em **Análise e Desenvolvimento de Sistemas** pela FMU/SP, e participante da 17º turma da **RESILIA** educação (🐉), um **BOOTCAMP** de Desenvolvimento Web FullStack, focado em desenvolver as hards e softs skills dos alunos. <br> 
+  
+### 🤳 Social Medias para Networking:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimaraesabrina/) <br/>
 
-### Technologies 👩‍💻
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-)
-
-
+### 👩‍💻 Atualmente estou estudando: 
+ 
+→ JavaScript <br>
+→ CSS Avançado <br>
+→ Node.js <br>
+→ SCRUM & Kanban (Metodologias Ágeis) <br>
+ 
+ ### 🐱 GitHub Status: 
+  
 ![Sabrina GitHub Stats](https://github-readme-stats.vercel.app/api?username=guimaraesabri&show_icons=true&theme=radical)
