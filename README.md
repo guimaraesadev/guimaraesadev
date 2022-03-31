@@ -3,7 +3,7 @@
 <center><center>
   
   
-  ![Component 1 certp](https://user-images.githubusercontent.com/101408372/159701602-5a401618-fa25-4784-b6d3-3e60885a97cf.png)
+  
 
 
 Me chamo Sabrina, e **agradeço imensamente a visita ao meu perfil**, estou aberta para trocas e conversas! <br>
