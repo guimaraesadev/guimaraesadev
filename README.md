@@ -1,4 +1,4 @@
-![Frame 2](https://user-images.githubusercontent.com/101408372/162743281-f4e02012-5c85-4fc3-ac81-7350e4cfdb07.png)
+![Frame 25](https://user-images.githubusercontent.com/101408372/162750106-8d3dd779-e992-40f2-9162-3a41464a3907.png)
 <br>
 ## My social Medias
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimaraesabrina/)
