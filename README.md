@@ -1,11 +1,7 @@
-![Frame 15](https://user-images.githubusercontent.com/101408372/161103824-d240948b-14a5-4d4d-912d-165196e72621.png)
+![CAPAGIT](https://user-images.githubusercontent.com/101408372/162739584-7f3f48db-c7b9-466f-b680-91f4fe36299b.png)
 <br>
-
 ## My social Medias
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimaraesabrina/)
-
-
-
 ## A little more about me;
 Venho da área educacional, anteriormente fui Educadora Popular e Ambiental, acredito na diversidade, pluraridade e universalidade do conhecimento. A aprendizagem deve ser compartilhada, dividida e mutiplicada entre todos aqueles que desejam. <br><br>
 Hoje como Desenvolvedora Web Full Stack, acredito ainda mais nesses preceitos, e tenho certeza que apenas em comunidade é onde se é capaz de evoluir pessoal e profissionalmente. 
