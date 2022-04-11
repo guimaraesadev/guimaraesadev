@@ -1,4 +1,4 @@
-![CAPAGIT](https://user-images.githubusercontent.com/101408372/162739584-7f3f48db-c7b9-466f-b680-91f4fe36299b.png)
+![Frame 2](https://user-images.githubusercontent.com/101408372/162743281-f4e02012-5c85-4fc3-ac81-7350e4cfdb07.png)
 <br>
 ## My social Medias
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimaraesabrina/)
