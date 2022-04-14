@@ -1,4 +1,4 @@
-![Frame 89](https://user-images.githubusercontent.com/101408372/162755313-44facb26-17e5-4c46-8312-20d11d3dae36.png)
+![Frame 2](https://user-images.githubusercontent.com/101408372/163434779-36748050-cfc1-422a-a3c2-f3e9f6c36b1e.png)
 <br>
 ## My social Medias <br>
 
