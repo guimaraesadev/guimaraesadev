@@ -14,8 +14,8 @@
 
 <h3 align="center">🛠 Languages and Technologies</h3> <br>
 
-<p align="center">I am constantly in the process of learning. <br> 
-Developing Web and Mobile applications. Passionate about UI/UX Design and Backend stack enthusiast.</p>
+<p align="center">I am constantly in the process of learning. 
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
