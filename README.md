@@ -25,5 +25,13 @@ Where to find me <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,jquery,nodejs,css,bootstrap,html,mysql,vscode,figma,linux" />
   </a>
-</p>
+</p> <br>
+
+<h3 align="center"> 😃 talk to me about any topic!</h3>
+
+<div align="center">
+
+<img src="https://lh3.googleusercontent.com/nvrA4S5sDJV5K21RGtOmFvjJKiwlmcEN-vfggTUmZ0XzQtiKt4vS0axPnTHu2XjeDaPSkcndyXhzAAIrf_Bbhmc5jPoI0mleAaR_vhwS3RT-Rp_MmQ68ePwyux17OfnWoP9JNXN1tkljfwdDpuqTTuPbwgOsK2ztNfhAuO-qm40euJZ7nPWIBybQ4AQnxVwnJ7IooPug-UbjaktuslAOtwFrt0yrbE2a2iSKTWESTEI6X7StHFoBvm7XxeYCGjbywHeY1ZJY2xzgzsv0aUcJapScJDc9HEMcSaCjV79NXi1CtnfcZmz5LzcqIKCXRUVLbDBHdb1RNXv8HGNIkD_67jGX0xNNfZlYJag8pNRcryU6Bm6J6z2R-gIECbxOE9tuaknRxOoOlH2tM9mEkVlEHps-gclcW0lsl1Jy-Qh3VRENtjjAxdiuAXHnOOw3PvlUUG3XsYvcSpZxao5v5XiIQ5sWOezyXNDsBHu_TTEyE8FjhX4Fwd_sCphOcWk_ZnNachVseYm0V3MGYuRoa9Awg8quPDSld3lrDpLciXQBpPbrhgpLxdK8o4k5UokFxRUfmjGMx3iUlQnsCWyx8aoFhmY-5NSqsxuCWxkr4AA5TJvR1wgDC1bEAV1yvnWvvjQLk32fYolUSkuYnE4MoAvJLsT_uqRusRoQdbEBscHVUlLBKD21VjrZQuP8h8HPpyqMtwDDl5WMFKssD6tAnkuEvmQPG2SQu2nWsTsBdCcIw4tbm644tdf4VxORjEEStmM=s200-no?authuser=0" style="border-radius: 50%;">
+
+</div>
 
