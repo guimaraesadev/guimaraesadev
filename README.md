@@ -16,6 +16,8 @@ I'm a Full Stack Developer. Graduating in Information Systems. <br>
   </a>
 </p> <br>
 
+  ![Snake animation](https://github.com/guimaraesadev/guimaraesadev/blob/output/github-contribution-grid-snake.svg)
+  
 <details>
   <summary> More about me</summary>
 <div align="left">
