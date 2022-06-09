@@ -15,8 +15,11 @@ I'm a Full Stack Developer. Graduating in Information Systems. <br>
     <img src="https://skillicons.dev/icons?i=javascript,jquery,nodejs,css,bootstrap,html,mysql,figma,vscode" />
   </a>
 </p> <br>
+  
 
   ![Snake animation](https://github.com/guimaraesadev/guimaraesadev/blob/output/github-contribution-grid-snake.svg)
+  
+  
   
 <details>
   <summary> More about me</summary>
