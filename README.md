@@ -12,7 +12,7 @@ I'm a Full Stack Developer. Graduating in Information Systems. <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,jquery,nodejs,css,bootstrap,html,mysql,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,vue,mysql,mongodb,python" />
   </a>
 </p> <br>
   
