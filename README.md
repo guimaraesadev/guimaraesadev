@@ -16,7 +16,3 @@ Data Engineer at [@NTT DATA](https://www.nttdata.com/global/en/)
   </a>
 </p> <br>
   
-<details>
-  <summary> More about me</summary>
-<div align="left">
- 
