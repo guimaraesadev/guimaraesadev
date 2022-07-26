@@ -20,17 +20,3 @@ Data Engineer at [@NTT DATA](https://www.nttdata.com/global/en/)
   <summary> More about me</summary>
 <div align="left">
  
-``` js
-const bina = {
-    personal: {
-        fullName: 'Sabrina de Sousa Guimarães',
-        birthDate: '2002-03-14',
-        pronouns: 'she' | 'her',
-        interests: ['music', 'books', 'language learning', 'design'],
-        motivation: [
-            'Fight for the human cause, diversity and inclusion',
-            'Share knowledge',
-        ],
-    }
-}
-```
